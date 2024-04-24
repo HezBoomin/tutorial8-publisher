@@ -6,3 +6,6 @@ It means that the publisher and subscriber are connected to the same message bro
 
 ### Running RabbitMQ
 ![rabbitmq](./image/Screenshot%202024-04-24%20193435.png)
+
+### Sending and receiving event
+![event](./image/Screenshot%202024-04-24%20194823.png)
